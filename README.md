@@ -21,3 +21,15 @@ Node.js (v18+ recommended)
 MongoDB (local or Atlas)
 
 Postman (for API testing)
+
+
+
+
+Clone the repository:
+git clone https://github.com/backend_assignment/retail-pulse-api.gitcd retail-pulse-api
+
+Install dependencies:   
+npm install
+
+Run the server:
+node server.js
